@@ -1,5 +1,12 @@
-{
-  "package": "tomleditjs",
-  "url": "https://github.com/georgestagg/tomleditjs",
-  "branch": "webr"
-}
+[
+  {
+    "package": "tomleditjs",
+    "url": "https://github.com/georgestagg/tomleditjs",
+    "branch": "webr"
+  },
+  {
+    "package": "V8",
+    "url": "https://github.com/georgestagg/V8",
+    "branch" : "webr"
+  }
+]
